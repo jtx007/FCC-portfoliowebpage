@@ -1,0 +1,28 @@
+html {
+font-family: 'Spectral',
+serif;
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+}
+
+#welcome-section {
+    background-color: rgba(78, 154, 189, 0.447);
+    text-align: center;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+    height: 100vh;
+
+}
+
+#projects {
+    background-color: rgba(223, 60, 60, 0.31);
+    height: 100rem;
+    padding: 0px;
+    margin: 0px;
+    display: block;
+}
